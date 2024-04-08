@@ -1,6 +1,10 @@
 # Hola, Soy Alejandro Rojas&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mí
+
+Soy licenciado en Economía por la UNAM y tengo, además, una maestría en Analítica e Inteligencia de Negocios en la UNITEC. También, cursé un diplomado en Estadística y otro en Econometría Aplicada, ambos en la FE-UNAM.
+
+Cuento con más 10 años de experiencia realizando reportes y análisis, en busca de contribuir con conocimientos técnicos para dar solución a problemas diversos así como proponer y desarrollar soluciones de analítica avanzada que respondan a las necesidades estratégicas del negocio y que ayuden a una eficiente y correcta toma de decisiones basadas en datos.
 
 ### 🛠 &nbsp;Herramientas
 
@@ -20,7 +24,7 @@
 
 ### Hi there 👋 💼
 
-### 🤝🏻 &nbsp;Connect with Me around the web 🌎:
+### 🤝🏻 &nbsp;Conecta conmigo en la web 🌎:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alejandro-rojas-moreno-089535135" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@arojas-blue?style=flat&logo=linkedin"></a>
